@@ -10,6 +10,8 @@
     "clean": "react-native-clean-project"
   },
   "dependencies": {
+    "@expo-google-fonts/lato": "^0.2.3",
+    "@expo-google-fonts/oswald": "^0.2.3",
     "expo": "^49.0.23",
     "expo-font": "~11.4.0",
     "expo-status-bar": "~1.6.0",
